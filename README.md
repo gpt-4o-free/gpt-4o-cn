@@ -1,6 +1,6 @@
-# **GPT-4o绘图指南及国内使用方法【2025年4月】**
+# **GPT-4o绘图指南及国内使用方法【2025年7月】**
 
-更新日期：2025-05-19
+更新日期：2025-07-21 
 
 欢迎大家来了解这篇关于gpt-4o绘图的全新教程！在这里，我会用简洁、直接的语言和列表说明，为你带来【gpt-4o】、【gpt4o】、【吉卜力】、【gpt4o 绘图】实用内容。如果你正计划将创意转化为数字艺术作品，一起看看吧！
 
@@ -12,7 +12,7 @@
 | 网站 | 支持功能 |
 | --- | --- |
 | [https://xsimplechat.com](https://xsimplechat.com) | GPT4o 画图、GPT o1、GPT o3、DeepSeek 满血版、Claude 3.7 Sonnet、Grok-3、AI PPT、AI绘画、联网查询 |
-| [https://chat.chatgpt-chinese.com/](https://chat.chatgpt-chinese.com/) | GPT4o、GPT-o3、GPT o1、DeepSeek 满血版 |
+| [https://chat.lanjingai.org/](https://chat.lanjingai.org/) | GPT4o、GPT-o3、GPT o1、DeepSeek 满血版 |
 | [https://chat.lanjing.pro](https://chat.lanjing.pro) | GPT全系列模型、DeepSeek R1 满血版 |
 | [https://guide1.lanjing.ai](https://guide1.lanjing.ai) | GPT全系列模型 |
 
